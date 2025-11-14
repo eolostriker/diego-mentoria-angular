@@ -14,4 +14,5 @@ export class SobreMim {
   lista = ['jogos', 'futebol', 'programar', 'café'];
   //imagem = './src/app/sobre-mim/archer_fox.jpg';
   imagem = 'https://d.furaffinity.net/art/kuraitora/1527012065/1527012065.kuraitora_archerfox_web.jpg';
+  //imagem = 'https://portais.santoandre.sp.gov.br/wp-content/uploads/elementor/thumbs/logo-psa-vertical-e1659619024717-psrqgk82er1lf1umcvh136448krpe28sch5dekvsx4.png';
 }
